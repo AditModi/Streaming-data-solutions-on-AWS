@@ -4,6 +4,10 @@
 
 AWS streaming services enable you to focus on your application to make time-sensitive business decisions, rather than deploying and managing the infrastructure.
 
+Feel free to make suggestions, I am open to any advice! You can reach me on [Twitter](https://twitter.com/adi_12_modi) or [LinkedIn](https://www.linkedin.com/in/adit-modi-2a4362191/).
+
+##### Enjoy! 😉👍
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AditModi/Streaming-data-solutions-on-AWS)[![Website](https://img.shields.io/website?label=Dev.to&up_message=@aditmodi&url=https%3A%2F%2Fdev.to/aditmodi)](https://dev.to/aditmodi) 
 
 
